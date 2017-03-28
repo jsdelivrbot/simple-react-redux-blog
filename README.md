@@ -1,1 +1,1 @@
-# ReduxSimpleStarter
+React-Redux Routing Prototype Blog
