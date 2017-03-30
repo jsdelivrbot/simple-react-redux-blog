@@ -1,1 +1,1 @@
-React-Redux Routing Prototype Blog
+A sample React Redux Blog app
